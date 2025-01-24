@@ -4,3 +4,5 @@ All the other ones are only accurate every five minutes. My Fibonacci Clock uses
 Once a Fibonacci Rectangle reaches a count of 12, it is cleared, and an appropriate external square is updated. 
 Once a Fibonacci Rectangle reaches a count of 12 AND its external 48 square is also colored, that complete level is cleared, and the next higher level is updated. 
 The link above leads to an uploaded zip file that contains the single JavaScript html, the source code saved as a text file, and a PDF with documentation.
+
+![image](https://github.com/user-attachments/assets/3ae927be-e0d1-4515-a595-5f97bd6815cc)
